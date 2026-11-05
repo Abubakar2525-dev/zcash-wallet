@@ -1,2 +1,2 @@
-# zcash-wallet
-Privacy policy for the Zcash app
+# Zecash-Wallet
+Privacy policy for the Zecash app
